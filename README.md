@@ -46,7 +46,7 @@ I wanted to answer the following questions about AirBnb data in Seattle area:
 
 1. What is the busiest time of year to visit Seattle?
 2. What is the price delta when visiting at various times?
-3. What is current trend in visitations?
+3. Can a price prediction model be built to predict a price of a listing?
 
 ## File Descriptions
 
