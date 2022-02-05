@@ -78,4 +78,5 @@ but lower rsquared values. However, further analysis could get these values high
 ## Sources
 
 https://www.kaggle.com/airbnb/seattle?select=calendar.csv
+
 https://pandas.pydata.org/docs/reference/index.html
