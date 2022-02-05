@@ -68,7 +68,7 @@ calendar.csv, listings.csv, reviews.csv - Kaggle data on Seattle AirBNB listings
 ## Results
 
 Question 1 - The months with the most openings are in the early and latter part of the year. Summer is the busiest
-time of year to visit Seattle
+time of year to visit Seattle.
 
 Question 2 - The summer is also the most expensive time of year to visit Seattle
 
