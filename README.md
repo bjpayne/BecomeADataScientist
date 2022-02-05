@@ -40,6 +40,12 @@ Jupyter
 pip install jupyter
 ```
 
+Seaborn
+
+```bash
+pip install seaborn
+```
+
 ## Project Motivation
 
 I wanted to answer the following questions about AirBnb data in Seattle area:
@@ -50,9 +56,11 @@ I wanted to answer the following questions about AirBnb data in Seattle area:
 
 ## File Descriptions
 
-Each question has a corresponding notebook that iterates through how I attempted to answer that question
+Each question has a corresponding notebook that details how I attempted to answer that question.
 
 ## Results
+
+Question 1 - The months with the most openings are 
 
 ## Sources
 
