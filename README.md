@@ -56,10 +56,14 @@ I wanted to answer the following questions about AirBnb data in Seattle area:
 
 ## File Descriptions
 
+intro.ipynb - Business understanding and an analysis of the questions being researched
+
 Each question has a corresponding notebook that details how I attempted to answer that question.
 
 question1.ipynb - Explore the data to figure out when is the busiest time of year to visit Seattle
+
 question2.ipynb - Further explore the data to figure out when is the most expensive time of the year to visit Seattle
+
 question3.ipynb - Using the data from the first 2 questions, build a model to predict the price of a listing using the
 categorical columns available in the listings file
 
